@@ -1,0 +1,14 @@
+C:\Documents and Settings\D01\Moje dokumenty\Visual Studio 2010\Projects\Synapse\SignalInspectorSample\bin\Debug\SignalInspectorSample.exe
+C:\Documents and Settings\D01\Moje dokumenty\Visual Studio 2010\Projects\Synapse\SignalInspectorSample\bin\Debug\SignalInspectorSample.pdb
+C:\Documents and Settings\D01\Moje dokumenty\Visual Studio 2010\Projects\Synapse\SignalInspectorSample\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\D01\Moje dokumenty\Visual Studio 2010\Projects\Synapse\SignalInspectorSample\obj\x86\Debug\SignalInspectorSample.exe
+C:\Documents and Settings\D01\Moje dokumenty\Visual Studio 2010\Projects\Synapse\SignalInspectorSample\obj\x86\Debug\SignalInspectorSample.pdb
+C:\Documents and Settings\D01\Moje dokumenty\Visual Studio 2010\Projects\Synapse\SignalInspectorSample\bin\Debug\HSynapse.dll
+C:\Documents and Settings\D01\Moje dokumenty\Visual Studio 2010\Projects\Synapse\SignalInspectorSample\bin\Debug\HSynapse.pdb
+C:\Documents and Settings\D01\Moje dokumenty\Visual Studio 2010\Projects\Synapse (published)\SignalInspectorSample\bin\Debug\SignalInspectorSample.exe
+C:\Documents and Settings\D01\Moje dokumenty\Visual Studio 2010\Projects\Synapse (published)\SignalInspectorSample\bin\Debug\SignalInspectorSample.pdb
+C:\Documents and Settings\D01\Moje dokumenty\Visual Studio 2010\Projects\Synapse (published)\SignalInspectorSample\bin\Debug\HSynapse.dll
+C:\Documents and Settings\D01\Moje dokumenty\Visual Studio 2010\Projects\Synapse (published)\SignalInspectorSample\bin\Debug\HSynapse.pdb
+C:\Documents and Settings\D01\Moje dokumenty\Visual Studio 2010\Projects\Synapse (published)\SignalInspectorSample\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\D01\Moje dokumenty\Visual Studio 2010\Projects\Synapse (published)\SignalInspectorSample\obj\x86\Debug\SignalInspectorSample.exe
+C:\Documents and Settings\D01\Moje dokumenty\Visual Studio 2010\Projects\Synapse (published)\SignalInspectorSample\obj\x86\Debug\SignalInspectorSample.pdb

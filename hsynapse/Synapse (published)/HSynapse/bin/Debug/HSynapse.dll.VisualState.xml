@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<VisualState xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ShowCheckBoxes="false">
+  <TopNode>[0-1024]C:\Documents and Settings\D01\Moje dokumenty\Visual Studio 2008\Projects\Synapse\HSynapse\bin\Debug\HSynapse.dll</TopNode>
+  <SelectedNode>[0-1024]C:\Documents and Settings\D01\Moje dokumenty\Visual Studio 2008\Projects\Synapse\HSynapse\bin\Debug\HSynapse.dll</SelectedNode>
+  <ExcludeCategories>false</ExcludeCategories>
+  <Nodes>
+    <Node UniqueName="[0-1024]C:\Documents and Settings\D01\Moje dokumenty\Visual Studio 2008\Projects\Synapse\HSynapse\bin\Debug\HSynapse.dll" Expanded="true" />
+    <Node UniqueName="[0-1025]HAKGERSoft" Expanded="true" />
+    <Node UniqueName="[0-1026]HAKGERSoft.Synapse" Expanded="true" />
+    <Node UniqueName="[0-1027]HAKGERSoft.Synapse.Tests" Expanded="true" />
+    <Node UniqueName="[0-1018]HAKGERSoft.Synapse.Tests.Approx" Expanded="true" />
+    <Node UniqueName="[0-1002]HAKGERSoft.Synapse.Tests.ArtificialNetworkTest" Expanded="true" />
+    <Node UniqueName="[0-1014]HAKGERSoft.Synapse.Tests.BinaryToolTest" Expanded="true" />
+    <Node UniqueName="[0-1000]HAKGERSoft.Synapse.Tests.NetworkGeneratorTest" Expanded="true" />
+    <Node UniqueName="[0-1021]HAKGERSoft.Synapse.Tests.ToolsTest" Expanded="true" />
+  </Nodes>
+</VisualState>

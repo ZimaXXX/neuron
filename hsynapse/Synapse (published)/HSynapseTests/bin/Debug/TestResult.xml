@@ -1,0 +1,115 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--This file represents the results of running a test suite-->
+<test-results name="C:\Documents and Settings\D01\Moje dokumenty\Visual Studio 2010\Projects\Synapse\HSynapseTests\bin\Debug\HSynapseTests.dll" total="35" errors="0" failures="0" not-run="2" inconclusive="0" ignored="2" skipped="0" invalid="0" date="2011-03-06" time="12:49:13">
+  <environment nunit-version="2.5.5.10112" clr-version="2.0.50727.3615" os-version="Microsoft Windows NT 5.1.2600 Dodatek Service Pack 3" platform="Win32NT" cwd="C:\Documents and Settings\D01\Moje dokumenty\Visual Studio 2010\Projects\Synapse\HSynapseTests\bin\Debug" machine-name="DETO" user="D01" user-domain="DETO" />
+  <culture-info current-culture="pl-PL" current-uiculture="pl-PL" />
+  <test-suite type="Assembly" name="C:\Documents and Settings\D01\Moje dokumenty\Visual Studio 2010\Projects\Synapse\HSynapseTests\bin\Debug\HSynapseTests.dll" executed="True" result="Success" success="True" time="8.813" asserts="0">
+    <results>
+      <test-suite type="Namespace" name="HAKGERSoft" executed="True" result="Success" success="True" time="8.813" asserts="0">
+        <results>
+          <test-suite type="Namespace" name="Synapse" executed="True" result="Success" success="True" time="8.797" asserts="0">
+            <results>
+              <test-suite type="Namespace" name="Tests" executed="True" result="Success" success="True" time="8.797" asserts="0">
+                <results>
+                  <test-suite type="TestFixture" name="BinaryToolTest" executed="True" result="Success" success="True" time="0.047" asserts="0">
+                    <results>
+                      <test-case name="HAKGERSoft.Synapse.Tests.BinaryToolTest.BinaryToIntTest" executed="True" result="Success" success="True" time="0.016" asserts="3" />
+                      <test-case name="HAKGERSoft.Synapse.Tests.BinaryToolTest.GrayIntSwitchTest" executed="True" result="Success" success="True" time="0.016" asserts="6" />
+                      <test-case name="HAKGERSoft.Synapse.Tests.BinaryToolTest.IntToBinaryTest" executed="True" result="Success" success="True" time="0.000" asserts="3" />
+                    </results>
+                  </test-suite>
+                  <test-suite type="TestFixture" name="BPWatchdogTest" executed="True" result="Success" success="True" time="1.016" asserts="0">
+                    <results>
+                      <test-case name="HAKGERSoft.Synapse.Tests.BPWatchdogTest.LearnNeverTest" executed="True" result="Success" success="True" time="0.828" asserts="2" />
+                      <test-case name="HAKGERSoft.Synapse.Tests.BPWatchdogTest.LearnXORTest" executed="True" result="Success" success="True" time="0.156" asserts="50" />
+                    </results>
+                  </test-suite>
+                  <test-suite type="TestFixture" name="ConvolutionalGeneratorTest" executed="True" result="Success" success="True" time="1.000" asserts="0">
+                    <results>
+                      <test-case name="HAKGERSoft.Synapse.Tests.ConvolutionalGeneratorTest.C1" executed="True" result="Success" success="True" time="0.109" asserts="2" />
+                      <test-case name="HAKGERSoft.Synapse.Tests.ConvolutionalGeneratorTest.C3" executed="True" result="Success" success="True" time="0.094" asserts="2" />
+                      <test-case name="HAKGERSoft.Synapse.Tests.ConvolutionalGeneratorTest.C5" executed="True" result="Success" success="True" time="0.047" asserts="2" />
+                      <test-case name="HAKGERSoft.Synapse.Tests.ConvolutionalGeneratorTest.CheckOverallConnectionsCount" executed="False" result="Ignored">
+                        <reason>
+                          <message><![CDATA[]]></message>
+                        </reason>
+                      </test-case>
+                      <test-case name="HAKGERSoft.Synapse.Tests.ConvolutionalGeneratorTest.CheckOverallWeightsCount" executed="False" result="Ignored">
+                        <reason>
+                          <message><![CDATA[]]></message>
+                        </reason>
+                      </test-case>
+                      <test-case name="HAKGERSoft.Synapse.Tests.ConvolutionalGeneratorTest.F6" executed="True" result="Success" success="True" time="0.016" asserts="2" />
+                      <test-case name="HAKGERSoft.Synapse.Tests.ConvolutionalGeneratorTest.S2" executed="True" result="Success" success="True" time="0.000" asserts="2" />
+                      <test-case name="HAKGERSoft.Synapse.Tests.ConvolutionalGeneratorTest.S4" executed="True" result="Success" success="True" time="0.000" asserts="2" />
+                      <test-case name="HAKGERSoft.Synapse.Tests.ConvolutionalGeneratorTest.SharedWeightsCheck" executed="True" result="Success" success="True" time="0.016" asserts="2" />
+                    </results>
+                  </test-suite>
+                  <test-suite type="TestFixture" name="ConvolutionMapAutoTest" executed="True" result="Success" success="True" time="0.063" asserts="0">
+                    <results>
+                      <test-case name="HAKGERSoft.Synapse.Tests.ConvolutionMapAutoTest.BiasCheck" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                      <test-case name="HAKGERSoft.Synapse.Tests.ConvolutionMapAutoTest.ConnectionsCheck" executed="True" result="Success" success="True" time="0.000" asserts="2" />
+                      <test-case name="HAKGERSoft.Synapse.Tests.ConvolutionMapAutoTest.KernelCheck" executed="True" result="Success" success="True" time="0.000" asserts="1014" />
+                      <test-case name="HAKGERSoft.Synapse.Tests.ConvolutionMapAutoTest.KernelNeighbourhoodTest" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+                      <test-case name="HAKGERSoft.Synapse.Tests.ConvolutionMapAutoTest.NeuronsCount" executed="True" result="Success" success="True" time="0.000" asserts="2" />
+                      <test-case name="HAKGERSoft.Synapse.Tests.ConvolutionMapAutoTest.SharedWeightsCheck" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                    </results>
+                  </test-suite>
+                  <test-suite type="TestFixture" name="ConvolutionMapTest" executed="True" result="Success" success="True" time="0.234" asserts="0">
+                    <results>
+                      <test-case name="HAKGERSoft.Synapse.Tests.ConvolutionMapTest.ConnectionsCheck" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                      <test-case name="HAKGERSoft.Synapse.Tests.ConvolutionMapTest.NeuronsCount" executed="True" result="Success" success="True" time="0.000" asserts="2" />
+                      <test-case name="HAKGERSoft.Synapse.Tests.ConvolutionMapTest.WeightsCheck" executed="True" result="Success" success="True" time="0.016" asserts="1" />
+                    </results>
+                  </test-suite>
+                  <test-suite type="TestFixture" name="FullLayerConnectorTest" executed="True" result="Success" success="True" time="0.047" asserts="0">
+                    <results>
+                      <test-case name="HAKGERSoft.Synapse.Tests.FullLayerConnectorTest.FullScan" executed="True" result="Success" success="True" time="0.000" asserts="12" />
+                    </results>
+                  </test-suite>
+                  <test-suite type="TestFixture" name="KernelTest" executed="True" result="Success" success="True" time="0.000" asserts="0">
+                    <results>
+                      <test-case name="HAKGERSoft.Synapse.Tests.KernelTest.FullScan" executed="True" result="Success" success="True" time="0.000" asserts="376" />
+                    </results>
+                  </test-suite>
+                  <test-suite type="TestFixture" name="MLPGeneratorTest" executed="True" result="Success" success="True" time="0.016" asserts="0">
+                    <results>
+                      <test-case name="HAKGERSoft.Synapse.Tests.MLPGeneratorTest.FullNetworkScanTest" executed="True" result="Success" success="True" time="0.016" asserts="41" />
+                    </results>
+                  </test-suite>
+                  <test-suite type="TestFixture" name="MLPTest" executed="True" result="Success" success="True" time="0.531" asserts="0">
+                    <results>
+                      <test-case name="HAKGERSoft.Synapse.Tests.MLPTest.BPMaxCyclesTest" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                      <test-case name="HAKGERSoft.Synapse.Tests.MLPTest.BPMaxMSETest" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                      <test-case name="HAKGERSoft.Synapse.Tests.MLPTest.BPMinCyclesTest" executed="True" result="Success" success="True" time="0.156" asserts="1" />
+                      <test-case name="HAKGERSoft.Synapse.Tests.MLPTest.PulseManySameResultsTest" executed="True" result="Success" success="True" time="0.016" asserts="6" />
+                      <test-case name="HAKGERSoft.Synapse.Tests.MLPTest.ReasonableBPTimeTest" executed="True" result="Success" success="True" time="0.344" asserts="1" />
+                      <test-case name="HAKGERSoft.Synapse.Tests.MLPTest.ResetAutoTest" executed="True" result="Success" success="True" time="0.000" asserts="5" />
+                      <test-case name="HAKGERSoft.Synapse.Tests.MLPTest.ResetManualTest" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                    </results>
+                  </test-suite>
+                  <test-suite type="TestFixture" name="SerializerTest" executed="True" result="Success" success="True" time="5.781" asserts="0">
+                    <results>
+                      <test-case name="HAKGERSoft.Synapse.Tests.SerializerTest.ConvolutionSerialization" executed="True" result="Success" success="True" time="5.781" asserts="1724695" />
+                      <test-case name="HAKGERSoft.Synapse.Tests.SerializerTest.MLPSerialization" executed="True" result="Success" success="True" time="0.000" asserts="5" />
+                    </results>
+                  </test-suite>
+                  <test-suite type="TestFixture" name="SubSamplingTest" executed="True" result="Success" success="True" time="0.016" asserts="0">
+                    <results>
+                      <test-case name="HAKGERSoft.Synapse.Tests.SubSamplingTest.NeuronsCount" executed="True" result="Success" success="True" time="0.016" asserts="2" />
+                    </results>
+                  </test-suite>
+                  <test-suite type="TestFixture" name="ToolsTest" executed="True" result="Success" success="True" time="0.000" asserts="0">
+                    <results>
+                      <test-case name="HAKGERSoft.Synapse.Tests.ToolsTest.FillManyTest" executed="True" result="Success" success="True" time="0.000" asserts="4" />
+                    </results>
+                  </test-suite>
+                </results>
+              </test-suite>
+            </results>
+          </test-suite>
+        </results>
+      </test-suite>
+    </results>
+  </test-suite>
+</test-results>

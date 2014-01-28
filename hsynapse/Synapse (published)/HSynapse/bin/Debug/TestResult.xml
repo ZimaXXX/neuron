@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--This file represents the results of running a test suite-->
+<test-results name="C:\Documents and Settings\D01\Moje dokumenty\Visual Studio 2008\Projects\Synapse\HSynapse\bin\Debug\HSynapse.dll" total="15" errors="1" failures="0" not-run="0" ignored="0" skipped="0" invalid="0" date="2009-07-11" time="13:37:57">
+  <environment nunit-version="2.5.0.9122" clr-version="2.0.50727.3053" os-version="Microsoft Windows NT 5.1.2600 Dodatek Service Pack 3" platform="Win32NT" cwd="C:\Documents and Settings\D01\Moje dokumenty\Visual Studio 2008\Projects\Synapse\HSynapse\bin\Debug" machine-name="DETO" user="D01" user-domain="DETO" />
+  <culture-info current-culture="pl-PL" current-uiculture="pl-PL" />
+  <test-suite name="C:\Documents and Settings\D01\Moje dokumenty\Visual Studio 2008\Projects\Synapse\HSynapse\bin\Debug\HSynapse.dll" executed="True" success="False" time="0.953" asserts="0">
+    <results>
+      <test-suite name="HAKGERSoft" executed="True" success="False" time="0.953" asserts="0">
+        <results>
+          <test-suite name="Synapse" executed="True" success="False" time="0.938" asserts="0">
+            <results>
+              <test-suite name="Tests" executed="True" success="False" time="0.938" asserts="0">
+                <results>
+                  <test-suite name="Approx" executed="True" success="True" time="0.000" asserts="0">
+                    <results>
+                      <test-case name="HAKGERSoft.Synapse.Tests.Approx.SanityCheck" executed="True" success="True" time="0.000" asserts="6" />
+                    </results>
+                  </test-suite>
+                  <test-suite name="ArtificialNetworkTest" executed="True" success="False" time="0.922" asserts="0">
+                    <results>
+                      <test-case name="HAKGERSoft.Synapse.Tests.ArtificialNetworkTest.BPEpsTest" executed="True" success="True" time="0.000" asserts="1" />
+                      <test-case name="HAKGERSoft.Synapse.Tests.ArtificialNetworkTest.BPMaxCyclesTest" executed="True" success="True" time="0.063" asserts="1" />
+                      <test-case name="HAKGERSoft.Synapse.Tests.ArtificialNetworkTest.BPMinCyclesTest" executed="True" success="True" time="0.000" asserts="1" />
+                      <test-case name="HAKGERSoft.Synapse.Tests.ArtificialNetworkTest.BPTotalEpsShrinkTest1" executed="True" success="True" time="0.266" asserts="1999" />
+                      <test-case name="HAKGERSoft.Synapse.Tests.ArtificialNetworkTest.BPTotalEpsShrinkTest1_LowLF" executed="True" success="True" time="0.266" asserts="1999" />
+                      <test-case name="HAKGERSoft.Synapse.Tests.ArtificialNetworkTest.BPTotalEpsShrinkTest1_Momentum" executed="True" success="True" time="0.266" asserts="1999" />
+                      <test-case name="HAKGERSoft.Synapse.Tests.ArtificialNetworkTest.NetworkDeserializeTest" executed="True" success="False" time="0.000" asserts="0">
+                        <failure>
+                          <message><![CDATA[System.ArgumentException : 
+                One of the diagnostics data/structure verification failed - 
+                obviously you did something wrong. Check following message to 
+                solve the problem: 'file does not exists']]></message>
+                          <stack-trace><![CDATA[w HAKGERSoft.Synapse.Utility.Throw(String msg) w C:\Documents and Settings\D01\Moje dokumenty\Visual Studio 2008\Projects\Synapse\HSynapse\Utility.cs:wiersz 72
+w HAKGERSoft.Synapse.Utility.Verify[T](T x, Func`2 pred, String msg) w C:\Documents and Settings\D01\Moje dokumenty\Visual Studio 2008\Projects\Synapse\HSynapse\Utility.cs:wiersz 36
+w HAKGERSoft.Synapse.ArtificialNetwork.ReadFromFile(String filename) w C:\Documents and Settings\D01\Moje dokumenty\Visual Studio 2008\Projects\Synapse\HSynapse\HArtificialNetwork.cs:wiersz 119
+w HAKGERSoft.Synapse.Tests.ArtificialNetworkTest.NetworkDeserializeTest() w C:\Documents and Settings\D01\Moje dokumenty\Visual Studio 2008\Projects\Synapse\HSynapse\Tests\HArtificialNetworkTest.cs:wiersz 189
+]]></stack-trace>
+                        </failure>
+                      </test-case>
+                      <test-case name="HAKGERSoft.Synapse.Tests.ArtificialNetworkTest.PulseManySameResultsTest" executed="True" success="True" time="0.000" asserts="6" />
+                    </results>
+                  </test-suite>
+                  <test-suite name="BinaryToolTest" executed="True" success="True" time="0.000" asserts="0">
+                    <results>
+                      <test-case name="HAKGERSoft.Synapse.Tests.BinaryToolTest.BinaryToIntTest" executed="True" success="True" time="0.000" asserts="3" />
+                      <test-case name="HAKGERSoft.Synapse.Tests.BinaryToolTest.GrayIntSwitchTest" executed="True" success="True" time="0.000" asserts="6" />
+                      <test-case name="HAKGERSoft.Synapse.Tests.BinaryToolTest.IntToBinaryTest" executed="True" success="True" time="0.000" asserts="3" />
+                    </results>
+                  </test-suite>
+                  <test-suite name="NetworkGeneratorTest" executed="True" success="True" time="0.000" asserts="0">
+                    <results>
+                      <test-case name="HAKGERSoft.Synapse.Tests.NetworkGeneratorTest.FullNetworkScanTest" executed="True" success="True" time="0.000" asserts="41" />
+                    </results>
+                  </test-suite>
+                  <test-suite name="ToolsTest" executed="True" success="True" time="0.016" asserts="0">
+                    <results>
+                      <test-case name="HAKGERSoft.Synapse.Tests.ToolsTest.FillManyTest" executed="True" success="True" time="0.000" asserts="4" />
+                      <test-case name="HAKGERSoft.Synapse.Tests.ToolsTest.NextDoubleTest" executed="True" success="True" time="0.000" asserts="2" />
+                    </results>
+                  </test-suite>
+                </results>
+              </test-suite>
+            </results>
+          </test-suite>
+        </results>
+      </test-suite>
+    </results>
+  </test-suite>
+</test-results>

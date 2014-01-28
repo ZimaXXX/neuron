@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<VisualState xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ShowCheckBoxes="false">
+  <TopNode>[0-1050]C:\Documents and Settings\D01\Moje dokumenty\Visual Studio 2010\Projects\Synapse\HSynapseTests\bin\Debug\HSynapseTests.dll</TopNode>
+  <SelectedNode>[0-1050]C:\Documents and Settings\D01\Moje dokumenty\Visual Studio 2010\Projects\Synapse\HSynapseTests\bin\Debug\HSynapseTests.dll</SelectedNode>
+  <ExcludeCategories>false</ExcludeCategories>
+  <Nodes>
+    <Node UniqueName="[0-1050]C:\Documents and Settings\D01\Moje dokumenty\Visual Studio 2010\Projects\Synapse\HSynapseTests\bin\Debug\HSynapseTests.dll" Expanded="true" />
+    <Node UniqueName="[0-1051]HAKGERSoft" Expanded="true" />
+    <Node UniqueName="[0-1052]HAKGERSoft.Synapse" Expanded="true" />
+    <Node UniqueName="[0-1053]HAKGERSoft.Synapse.Tests" Expanded="true" />
+    <Node UniqueName="[0-1026]HAKGERSoft.Synapse.Tests.BinaryToolTest" Expanded="true" />
+    <Node UniqueName="[0-1042]HAKGERSoft.Synapse.Tests.BPWatchdogTest" Expanded="true" />
+    <Node UniqueName="[0-1009]HAKGERSoft.Synapse.Tests.ConvolutionalGeneratorTest" Expanded="true" />
+    <Node UniqueName="[0-1019]HAKGERSoft.Synapse.Tests.ConvolutionMapAutoTest" Expanded="true" />
+    <Node UniqueName="[0-1030]HAKGERSoft.Synapse.Tests.ConvolutionMapTest" Expanded="true" />
+    <Node UniqueName="[0-1040]HAKGERSoft.Synapse.Tests.FullLayerConnectorTest" Expanded="true" />
+    <Node UniqueName="[0-1048]HAKGERSoft.Synapse.Tests.KernelTest" Expanded="true" />
+    <Node UniqueName="[0-1034]HAKGERSoft.Synapse.Tests.MLPGeneratorTest" Expanded="true" />
+    <Node UniqueName="[0-1000]HAKGERSoft.Synapse.Tests.MLPTest" Expanded="true" />
+    <Node UniqueName="[0-1045]HAKGERSoft.Synapse.Tests.SerializerTest" Expanded="true" />
+    <Node UniqueName="[0-1038]HAKGERSoft.Synapse.Tests.SubSamplingTest" Expanded="true" />
+    <Node UniqueName="[0-1036]HAKGERSoft.Synapse.Tests.ToolsTest" Expanded="true" />
+  </Nodes>
+</VisualState>

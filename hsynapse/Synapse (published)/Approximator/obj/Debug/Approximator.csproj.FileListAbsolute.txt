@@ -1,0 +1,47 @@
+C:\Documents and Settings\D01\Moje dokumenty\Visual Studio 2010\Projects\Synapse\Sample_Approximation\bin\Debug\Sample_Approximation.exe.config
+C:\Documents and Settings\D01\Moje dokumenty\Visual Studio 2010\Projects\Synapse\Sample_Approximation\bin\Debug\Sample_Approximation.exe
+C:\Documents and Settings\D01\Moje dokumenty\Visual Studio 2010\Projects\Synapse\Sample_Approximation\bin\Debug\Sample_Approximation.pdb
+C:\Documents and Settings\D01\Moje dokumenty\Visual Studio 2010\Projects\Synapse\Sample_Approximation\bin\Debug\HSynapse.dll
+C:\Documents and Settings\D01\Moje dokumenty\Visual Studio 2010\Projects\Synapse\Sample_Approximation\bin\Debug\HSynapse.pdb
+C:\Documents and Settings\D01\Moje dokumenty\Visual Studio 2010\Projects\Synapse\Sample_Approximation\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\D01\Moje dokumenty\Visual Studio 2010\Projects\Synapse\Sample_Approximation\obj\Debug\Sample_Approximation.Form1.resources
+C:\Documents and Settings\D01\Moje dokumenty\Visual Studio 2010\Projects\Synapse\Sample_Approximation\obj\Debug\Sample_Approximation.Properties.Resources.resources
+C:\Documents and Settings\D01\Moje dokumenty\Visual Studio 2010\Projects\Synapse\Sample_Approximation\obj\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\D01\Moje dokumenty\Visual Studio 2010\Projects\Synapse\Sample_Approximation\obj\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\D01\Moje dokumenty\Visual Studio 2010\Projects\Synapse\Sample_Approximation\obj\Debug\Sample_Approximation.exe
+C:\Documents and Settings\D01\Moje dokumenty\Visual Studio 2010\Projects\Synapse\Sample_Approximation\obj\Debug\Sample_Approximation.pdb
+C:\Documents and Settings\D01\Moje dokumenty\Visual Studio 2010\Projects\Synapse\Approximator\bin\Debug\Approximator.exe.config
+C:\Documents and Settings\D01\Moje dokumenty\Visual Studio 2010\Projects\Synapse\Approximator\bin\Debug\Approximator.exe
+C:\Documents and Settings\D01\Moje dokumenty\Visual Studio 2010\Projects\Synapse\Approximator\bin\Debug\Approximator.pdb
+C:\Documents and Settings\D01\Moje dokumenty\Visual Studio 2010\Projects\Synapse\Approximator\bin\Debug\HSynapse.dll
+C:\Documents and Settings\D01\Moje dokumenty\Visual Studio 2010\Projects\Synapse\Approximator\bin\Debug\HSynapse.pdb
+C:\Documents and Settings\D01\Moje dokumenty\Visual Studio 2010\Projects\Synapse\Approximator\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\D01\Moje dokumenty\Visual Studio 2010\Projects\Synapse\Approximator\obj\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\D01\Moje dokumenty\Visual Studio 2010\Projects\Synapse\Approximator\obj\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\D01\Moje dokumenty\Visual Studio 2010\Projects\Synapse\Approximator\obj\Debug\Approximator.exe
+C:\Documents and Settings\D01\Moje dokumenty\Visual Studio 2010\Projects\Synapse\Approximator\obj\Debug\Approximator.pdb
+C:\Documents and Settings\D01\Moje dokumenty\Visual Studio 2010\Projects\Synapse\Approximator\obj\Debug\HAKGERSoft.Synapse.Samples.Form1.resources
+C:\Documents and Settings\D01\Moje dokumenty\Visual Studio 2010\Projects\Synapse\Approximator\obj\Debug\HAKGERSoft.Synapse.Samples.Properties.Resources.resources
+C:\Documents and Settings\D01\Moje dokumenty\Visual Studio 2010\Projects\Synapse (published)\Approximator\bin\Debug\Approximator.exe.config
+C:\Documents and Settings\D01\Moje dokumenty\Visual Studio 2010\Projects\Synapse (published)\Approximator\bin\Debug\Approximator.exe
+C:\Documents and Settings\D01\Moje dokumenty\Visual Studio 2010\Projects\Synapse (published)\Approximator\bin\Debug\Approximator.pdb
+C:\Documents and Settings\D01\Moje dokumenty\Visual Studio 2010\Projects\Synapse (published)\Approximator\bin\Debug\HSynapse.dll
+C:\Documents and Settings\D01\Moje dokumenty\Visual Studio 2010\Projects\Synapse (published)\Approximator\bin\Debug\HSynapse.pdb
+C:\Documents and Settings\D01\Moje dokumenty\Visual Studio 2010\Projects\Synapse (published)\Approximator\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\D01\Moje dokumenty\Visual Studio 2010\Projects\Synapse (published)\Approximator\obj\Debug\HAKGERSoft.Synapse.Samples.Form1.resources
+C:\Documents and Settings\D01\Moje dokumenty\Visual Studio 2010\Projects\Synapse (published)\Approximator\obj\Debug\HAKGERSoft.Synapse.Samples.Properties.Resources.resources
+C:\Documents and Settings\D01\Moje dokumenty\Visual Studio 2010\Projects\Synapse (published)\Approximator\obj\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\D01\Moje dokumenty\Visual Studio 2010\Projects\Synapse (published)\Approximator\obj\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\D01\Moje dokumenty\Visual Studio 2010\Projects\Synapse (published)\Approximator\obj\Debug\Approximator.exe
+C:\Documents and Settings\D01\Moje dokumenty\Visual Studio 2010\Projects\Synapse (published)\Approximator\obj\Debug\Approximator.pdb
+C:\Users\Zima\Documents\Visual Studio 2012\Projects\Neuron\hsynapse\Synapse (published)\Approximator\bin\Debug\Approximator.exe.config
+C:\Users\Zima\Documents\Visual Studio 2012\Projects\Neuron\hsynapse\Synapse (published)\Approximator\bin\Debug\Approximator.exe
+C:\Users\Zima\Documents\Visual Studio 2012\Projects\Neuron\hsynapse\Synapse (published)\Approximator\bin\Debug\Approximator.pdb
+C:\Users\Zima\Documents\Visual Studio 2012\Projects\Neuron\hsynapse\Synapse (published)\Approximator\bin\Debug\HSynapse.dll
+C:\Users\Zima\Documents\Visual Studio 2012\Projects\Neuron\hsynapse\Synapse (published)\Approximator\bin\Debug\HSynapse.pdb
+C:\Users\Zima\Documents\Visual Studio 2012\Projects\Neuron\hsynapse\Synapse (published)\Approximator\obj\Debug\Approximator.csprojResolveAssemblyReference.cache
+C:\Users\Zima\Documents\Visual Studio 2012\Projects\Neuron\hsynapse\Synapse (published)\Approximator\obj\Debug\HAKGERSoft.Synapse.Samples.Form1.resources
+C:\Users\Zima\Documents\Visual Studio 2012\Projects\Neuron\hsynapse\Synapse (published)\Approximator\obj\Debug\HAKGERSoft.Synapse.Samples.Properties.Resources.resources
+C:\Users\Zima\Documents\Visual Studio 2012\Projects\Neuron\hsynapse\Synapse (published)\Approximator\obj\Debug\Approximator.csproj.GenerateResource.Cache
+C:\Users\Zima\Documents\Visual Studio 2012\Projects\Neuron\hsynapse\Synapse (published)\Approximator\obj\Debug\Approximator.exe
+C:\Users\Zima\Documents\Visual Studio 2012\Projects\Neuron\hsynapse\Synapse (published)\Approximator\obj\Debug\Approximator.pdb

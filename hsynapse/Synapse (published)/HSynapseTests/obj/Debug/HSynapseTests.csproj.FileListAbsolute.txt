@@ -1,0 +1,33 @@
+C:\Documents and Settings\D01\Moje dokumenty\Visual Studio 2008\Projects\Synapse\HSynapseTests\bin\Debug\HSynapseTests.dll
+C:\Documents and Settings\D01\Moje dokumenty\Visual Studio 2008\Projects\Synapse\HSynapseTests\bin\Debug\HSynapseTests.pdb
+C:\Documents and Settings\D01\Moje dokumenty\Visual Studio 2008\Projects\Synapse\HSynapseTests\bin\Debug\nunit.framework.dll
+C:\Documents and Settings\D01\Moje dokumenty\Visual Studio 2008\Projects\Synapse\HSynapseTests\bin\Debug\nunit.framework.xml
+C:\Documents and Settings\D01\Moje dokumenty\Visual Studio 2008\Projects\Synapse\HSynapseTests\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\D01\Moje dokumenty\Visual Studio 2008\Projects\Synapse\HSynapseTests\obj\Debug\HSynapseTests.dll
+C:\Documents and Settings\D01\Moje dokumenty\Visual Studio 2008\Projects\Synapse\HSynapseTests\obj\Debug\HSynapseTests.pdb
+C:\Documents and Settings\D01\Moje dokumenty\Visual Studio 2008\Projects\Synapse\HSynapseTests\bin\Debug\HSynapse.dll
+C:\Documents and Settings\D01\Moje dokumenty\Visual Studio 2008\Projects\Synapse\HSynapseTests\bin\Debug\HSynapse.pdb
+C:\Documents and Settings\D01\Moje dokumenty\Visual Studio 2008\Projects\Synapse\HSynapseTests\bin\Debug\HSynapseTools.dll
+C:\Documents and Settings\D01\Moje dokumenty\Visual Studio 2008\Projects\Synapse\HSynapseTests\bin\Debug\HSynapseTools.pdb
+C:\Documents and Settings\D01\Moje dokumenty\Visual Studio 2010\Projects\Synapse\HSynapseTests\bin\Debug\HSynapseTests.dll
+C:\Documents and Settings\D01\Moje dokumenty\Visual Studio 2010\Projects\Synapse\HSynapseTests\bin\Debug\HSynapseTests.pdb
+C:\Documents and Settings\D01\Moje dokumenty\Visual Studio 2010\Projects\Synapse\HSynapseTests\bin\Debug\HSynapse.dll
+C:\Documents and Settings\D01\Moje dokumenty\Visual Studio 2010\Projects\Synapse\HSynapseTests\bin\Debug\HSynapseTools.dll
+C:\Documents and Settings\D01\Moje dokumenty\Visual Studio 2010\Projects\Synapse\HSynapseTests\bin\Debug\nunit.framework.dll
+C:\Documents and Settings\D01\Moje dokumenty\Visual Studio 2010\Projects\Synapse\HSynapseTests\bin\Debug\HSynapseTools.pdb
+C:\Documents and Settings\D01\Moje dokumenty\Visual Studio 2010\Projects\Synapse\HSynapseTests\bin\Debug\HSynapse.pdb
+C:\Documents and Settings\D01\Moje dokumenty\Visual Studio 2010\Projects\Synapse\HSynapseTests\bin\Debug\nunit.framework.xml
+C:\Documents and Settings\D01\Moje dokumenty\Visual Studio 2010\Projects\Synapse\HSynapseTests\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\D01\Moje dokumenty\Visual Studio 2010\Projects\Synapse\HSynapseTests\obj\Debug\HSynapseTests.dll
+C:\Documents and Settings\D01\Moje dokumenty\Visual Studio 2010\Projects\Synapse\HSynapseTests\obj\Debug\HSynapseTests.pdb
+C:\Documents and Settings\D01\Moje dokumenty\Visual Studio 2010\Projects\Synapse (published)\HSynapseTests\bin\Debug\HSynapseTests.dll
+C:\Documents and Settings\D01\Moje dokumenty\Visual Studio 2010\Projects\Synapse (published)\HSynapseTests\bin\Debug\HSynapseTests.pdb
+C:\Documents and Settings\D01\Moje dokumenty\Visual Studio 2010\Projects\Synapse (published)\HSynapseTests\bin\Debug\HSynapse.dll
+C:\Documents and Settings\D01\Moje dokumenty\Visual Studio 2010\Projects\Synapse (published)\HSynapseTests\bin\Debug\HSynapseTools.dll
+C:\Documents and Settings\D01\Moje dokumenty\Visual Studio 2010\Projects\Synapse (published)\HSynapseTests\bin\Debug\nunit.framework.dll
+C:\Documents and Settings\D01\Moje dokumenty\Visual Studio 2010\Projects\Synapse (published)\HSynapseTests\bin\Debug\HSynapseTools.pdb
+C:\Documents and Settings\D01\Moje dokumenty\Visual Studio 2010\Projects\Synapse (published)\HSynapseTests\bin\Debug\HSynapse.pdb
+C:\Documents and Settings\D01\Moje dokumenty\Visual Studio 2010\Projects\Synapse (published)\HSynapseTests\bin\Debug\nunit.framework.xml
+C:\Documents and Settings\D01\Moje dokumenty\Visual Studio 2010\Projects\Synapse (published)\HSynapseTests\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\D01\Moje dokumenty\Visual Studio 2010\Projects\Synapse (published)\HSynapseTests\obj\Debug\HSynapseTests.dll
+C:\Documents and Settings\D01\Moje dokumenty\Visual Studio 2010\Projects\Synapse (published)\HSynapseTests\obj\Debug\HSynapseTests.pdb

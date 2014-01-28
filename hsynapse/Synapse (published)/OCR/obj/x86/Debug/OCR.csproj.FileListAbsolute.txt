@@ -1,0 +1,24 @@
+C:\Documents and Settings\D01\Moje dokumenty\Visual Studio 2010\Projects\Synapse\OCR\bin\Debug\OCR.exe
+C:\Documents and Settings\D01\Moje dokumenty\Visual Studio 2010\Projects\Synapse\OCR\bin\Debug\OCR.pdb
+C:\Documents and Settings\D01\Moje dokumenty\Visual Studio 2010\Projects\Synapse\OCR\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\D01\Moje dokumenty\Visual Studio 2010\Projects\Synapse\OCR\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\D01\Moje dokumenty\Visual Studio 2010\Projects\Synapse\OCR\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\D01\Moje dokumenty\Visual Studio 2010\Projects\Synapse\OCR\obj\x86\Debug\OCR.exe
+C:\Documents and Settings\D01\Moje dokumenty\Visual Studio 2010\Projects\Synapse\OCR\obj\x86\Debug\OCR.pdb
+C:\Documents and Settings\D01\Moje dokumenty\Visual Studio 2010\Projects\Synapse\OCR\bin\Debug\HSynapse.dll
+C:\Documents and Settings\D01\Moje dokumenty\Visual Studio 2010\Projects\Synapse\OCR\bin\Debug\HSynapse.pdb
+C:\Documents and Settings\D01\Moje dokumenty\Visual Studio 2010\Projects\Synapse\OCR\obj\x86\Debug\HAKGERSoft.Synapse.Samples.Form1.resources
+C:\Documents and Settings\D01\Moje dokumenty\Visual Studio 2010\Projects\Synapse\OCR\obj\x86\Debug\HAKGERSoft.Synapse.Samples.Properties.Resources.resources
+C:\Documents and Settings\D01\Moje dokumenty\Visual Studio 2010\Projects\Synapse (published)\OCR\obj\x86\Debug\OCR.exe
+C:\Documents and Settings\D01\Moje dokumenty\Visual Studio 2010\Projects\Synapse (published)\OCR\obj\x86\Debug\OCR.pdb
+C:\Documents and Settings\D01\Moje dokumenty\Visual Studio 2010\Projects\Synapse (published)\OCR\bin\Debug\OCR.exe
+C:\Documents and Settings\D01\Moje dokumenty\Visual Studio 2010\Projects\Synapse (published)\OCR\bin\Debug\OCR.pdb
+C:\Documents and Settings\D01\Moje dokumenty\Visual Studio 2010\Projects\Synapse (published)\OCR\bin\Debug\HSynapse.dll
+C:\Documents and Settings\D01\Moje dokumenty\Visual Studio 2010\Projects\Synapse (published)\OCR\bin\Debug\HSynapse.pdb
+C:\Documents and Settings\D01\Moje dokumenty\Visual Studio 2010\Projects\Synapse (published)\OCR\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\D01\Moje dokumenty\Visual Studio 2010\Projects\Synapse (published)\OCR\obj\x86\Debug\HAKGERSoft.Synapse.Samples.Form1.resources
+C:\Documents and Settings\D01\Moje dokumenty\Visual Studio 2010\Projects\Synapse (published)\OCR\obj\x86\Debug\HAKGERSoft.Synapse.Samples.Properties.Resources.resources
+C:\Documents and Settings\D01\Moje dokumenty\Visual Studio 2010\Projects\Synapse (published)\OCR\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\D01\Moje dokumenty\Visual Studio 2010\Projects\Synapse (published)\OCR\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Zima\Documents\Visual Studio 2012\Projects\Neuron\hsynapse\Synapse (published)\OCR\obj\x86\Debug\OCR.exe
+C:\Users\Zima\Documents\Visual Studio 2012\Projects\Neuron\hsynapse\Synapse (published)\OCR\obj\x86\Debug\OCR.pdb

@@ -1,0 +1,27 @@
+C:\Documents and Settings\D01\Moje dokumenty\Visual Studio 2008\Projects\_TEST\Synapse\HSynapse\bin\Debug\HSynapse.dll
+C:\Documents and Settings\D01\Moje dokumenty\Visual Studio 2008\Projects\_TEST\Synapse\HSynapse\bin\Debug\HSynapse.pdb
+C:\Documents and Settings\D01\Moje dokumenty\Visual Studio 2008\Projects\_TEST\Synapse\HSynapse\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\D01\Moje dokumenty\Visual Studio 2008\Projects\_TEST\Synapse\HSynapse\obj\Debug\HSynapse.dll
+C:\Documents and Settings\D01\Moje dokumenty\Visual Studio 2008\Projects\_TEST\Synapse\HSynapse\obj\Debug\HSynapse.pdb
+C:\Documents and Settings\D01\Moje dokumenty\Visual Studio 2008\Projects\_TEST\Synapse\HSynapse\bin\Debug\nunit.framework.dll
+C:\Documents and Settings\D01\Moje dokumenty\Visual Studio 2008\Projects\_TEST\Synapse\HSynapse\bin\Debug\nunit.framework.xml
+C:\Documents and Settings\D01\Moje dokumenty\Visual Studio 2008\Projects\Synapse\HSynapse\bin\Debug\HSynapse.dll
+C:\Documents and Settings\D01\Moje dokumenty\Visual Studio 2008\Projects\Synapse\HSynapse\bin\Debug\HSynapse.pdb
+C:\Documents and Settings\D01\Moje dokumenty\Visual Studio 2008\Projects\Synapse\HSynapse\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\D01\Moje dokumenty\Visual Studio 2008\Projects\Synapse\HSynapse\obj\Debug\HSynapse.dll
+C:\Documents and Settings\D01\Moje dokumenty\Visual Studio 2008\Projects\Synapse\HSynapse\obj\Debug\HSynapse.pdb
+C:\Documents and Settings\D01\Moje dokumenty\Visual Studio 2010\Projects\Synapse\HSynapse\bin\Debug\HSynapse.dll
+C:\Documents and Settings\D01\Moje dokumenty\Visual Studio 2010\Projects\Synapse\HSynapse\bin\Debug\HSynapse.pdb
+C:\Documents and Settings\D01\Moje dokumenty\Visual Studio 2010\Projects\Synapse\HSynapse\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\D01\Moje dokumenty\Visual Studio 2010\Projects\Synapse\HSynapse\obj\Debug\HSynapse.dll
+C:\Documents and Settings\D01\Moje dokumenty\Visual Studio 2010\Projects\Synapse\HSynapse\obj\Debug\HSynapse.pdb
+C:\Documents and Settings\D01\Moje dokumenty\Visual Studio 2010\Projects\Synapse (published)\HSynapse\bin\Debug\HSynapse.dll
+C:\Documents and Settings\D01\Moje dokumenty\Visual Studio 2010\Projects\Synapse (published)\HSynapse\bin\Debug\HSynapse.pdb
+C:\Documents and Settings\D01\Moje dokumenty\Visual Studio 2010\Projects\Synapse (published)\HSynapse\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\D01\Moje dokumenty\Visual Studio 2010\Projects\Synapse (published)\HSynapse\obj\Debug\HSynapse.dll
+C:\Documents and Settings\D01\Moje dokumenty\Visual Studio 2010\Projects\Synapse (published)\HSynapse\obj\Debug\HSynapse.pdb
+C:\Users\Zima\Documents\Visual Studio 2012\Projects\Neuron\hsynapse\Synapse (published)\HSynapse\bin\Debug\HSynapse.dll
+C:\Users\Zima\Documents\Visual Studio 2012\Projects\Neuron\hsynapse\Synapse (published)\HSynapse\bin\Debug\HSynapse.pdb
+C:\Users\Zima\Documents\Visual Studio 2012\Projects\Neuron\hsynapse\Synapse (published)\HSynapse\obj\Debug\HSynapse.csprojResolveAssemblyReference.cache
+C:\Users\Zima\Documents\Visual Studio 2012\Projects\Neuron\hsynapse\Synapse (published)\HSynapse\obj\Debug\HSynapse.dll
+C:\Users\Zima\Documents\Visual Studio 2012\Projects\Neuron\hsynapse\Synapse (published)\HSynapse\obj\Debug\HSynapse.pdb
